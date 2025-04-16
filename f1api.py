@@ -4,10 +4,11 @@ import random
 # Connect to the MySQL database
 try:
     db = mysql.connector.connect(
-        host="localhost",
-        user="root",
-        password="123456",
-        database="f1db"
+        host="bxu4dnuioultji19dcki-mysql.services.clever-cloud.com",
+        user="ulkndk9aiugwv2eu",
+        password="4tR4IAweWMRXAivaeAQP",
+        database="bxu4dnuioultji19dcki",
+        port="3306"
     )
     print("Connected to the database successfully.")
 except mysql.connector.Error as err:
