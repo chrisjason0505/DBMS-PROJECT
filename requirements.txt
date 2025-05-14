@@ -1,7 +1,10 @@
 Required modules to run the program
 
+In case you would want to create a similar project;
 Full dataset can be fetched from ergast f1api
 http://ergast.com/mrd/
+
+We created tables and inserted data manually onto an online database, with much lesser information than the Ergast DB.
 
 The required libraries end user would need to install include:
 pillow
