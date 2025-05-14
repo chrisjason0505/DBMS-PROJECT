@@ -35,6 +35,7 @@ As an admin, you get full control:
 - Custom color schemes and layout for an immersive experience.
 - Clear navigation and responsive design.
 
+The whole project is hosted on an online DB so the tables and data that is present in the online DB will reflect in the game.
 ---
  📦 Installation
 
